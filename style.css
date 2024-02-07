@@ -1,0 +1,131 @@
+body{
+    background-color: #f0f2f5;
+}
+*{
+    text-decoration: none;
+}
+
+
+
+h1{
+    color: #0866ff;
+    font-size: 60px;
+
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+ margin-top: -2%;
+ font-size: 28px;
+}
+ 
+.left{
+       margin-left: 270px;
+       margin-top: 23vh;
+}
+
+
+
+
+
+.right{
+
+
+background-color: white;
+border-radius: 8px;
+
+margin: -30vh 850px;
+height: 340px;
+width: 396px;
+position: absolute;
+padding: 10px 5px 20px 5px;
+box-shadow: 0px 5px 12px 2px rgba(0,0,0,0.1);
+
+
+}
+.main1{
+    display: flex;
+flex-direction: column;
+   
+     
+.main{
+    display: block;
+    height: 40px;
+    margin : 3%;
+    padding :2% 5%;
+    margin-top : 2%;
+    border-radius : 8px;
+    border-color : rgba(0,0,0,0.2);   
+    
+   
+}
+
+.main2{
+    display: block;
+    margin: 3%;
+margin-top: -5%;
+    padding: 2% 5%;
+    height: 40px;
+    border-radius : 8px;
+    border-color : rgba(0,0,0,0.2);
+    
+}
+
+.btn1{
+     background-color: #0866ff;
+     color: white;
+     margin: 3.5%;
+     margin-top: 4px;
+     height: 50px;
+     border-radius: 7px;
+     border-color : rgba(0,0,0,0);
+     font-size: 20px;
+}
+
+.fpass{
+    text-decoration: none;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 25px;
+    color: #0866ff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.line{
+    border: 1px solid #222;
+    opacity: 0.1;
+    
+}
+
+.btn2{
+    background-color: #42b72a;
+    color: white;
+    margin: 25%;
+    margin-top: 4px;
+    height: 50px;
+    
+    border-radius: 7px;
+    border-color : rgba(0,0,0,0);
+    font-size: 16px;
+}
+
+.btn2:hover{
+    background-color: darkgreen;
+}
+.btn1:hover{
+    background-color: darkblue;
+}
+
+}
+
+.page{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px -20% 10% 10%  ;
+    margin: -6% -5% 0px -4%;
+    margin-top: -12%;
+    font-size: 15px;
+    .Cpage{
+    color: black;
+
+    }
+    
+    
+}
